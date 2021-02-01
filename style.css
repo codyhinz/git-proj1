@@ -1,4 +1,12 @@
-:root {
+main {
     margin: 30vh 30vw;
     text-align: center;
+}
+
+header {
+    padding: 3px;
+    margin-bottom: 20vh;
+    text-align: right;
+    color: white;
+    background-color: black;
 }
