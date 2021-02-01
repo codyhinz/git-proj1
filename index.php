@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <head>
+    <link rel="stylesheet" href="style.css">
     <title>My first PHP page</title>
 </head>
-<body>
-Hello world
-</body>
+<h1>Hello world</h1>
