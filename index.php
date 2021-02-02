@@ -2,7 +2,6 @@
     $firstname = filter_input(INPUT_GET, 'firstname', FILTER_SANITIZE_STRING);
     $lastname = filter_input(INPUT_GET, 'lastname', FILTER_SANITIZE_STRING);
     $age = filter_input(INPUT_GET, 'age', FILTER_SANITIZE_NUMBER_INT);
-    $oldenough = ""
 ?>
 <!DOCTYPE html>
     <head>
